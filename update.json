@@ -1,7 +1,6 @@
 {
   "version": "1.0.0",
   "notes": "Changelog for Aura v1.0.0",
-  "pub_date": "2026-03-01T00:00:00Z",
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRL3JCbDR3M3BVVWxod1Q2NWwvWDU2VHZ4ZkZsbGlpRGI0SmhqV2VVZmFLdlpYVjFadmVuQjM5UG1TSVZXN0sxSERRaTVkVldBK2s0MlArQ213YUVjOWlwYzl3ZnNtMFE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyMzMwNTc1CWZpbGU6QXVyYV8xLjAuMF94NjQtc2V0dXAuZXhlClFLKzQrcXlkY3JNdGN6dnVSNU1FSTlPaFZzckNrNko3MG1iRkYwTzdzWTVwdnRKQllWUnk4ZVhHTytJOWtyRHNnWVlqQzZPQnBqRVFsZjJNc2NZekJ3PT0K",
@@ -9,5 +8,6 @@
     }
   }
 }
+
 
 
