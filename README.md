@@ -11,7 +11,6 @@ Is has been fully tested for
 
 ## Next steps
 - Icon support for Ubisoft games
-- Ability to reorder games by Drag & Drop
 - The choise to make the app work in background so it can be opened with a keybind and automatically closes (lowers to the System Tray) when a game is launched.
 
 ## How to use
