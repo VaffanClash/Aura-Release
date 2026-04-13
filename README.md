@@ -4,6 +4,7 @@ The app supports:
 - Ubisoft games
 - Epic games
 - files
+- folders
 
 Is has been fully tested for
 - Steam games
@@ -11,8 +12,9 @@ Is has been fully tested for
 
 ## Next steps
 - Icon support for Ubisoft games
-- The choise to make the app work in background so it can be opened with a keybind and automatically closes (lowers to the System Tray) when a game is launched.
+- The choise to make the app work in background so it can be opened with a keybind and automatically closes (lowers to the System Tray) when a game is launched
 
 ## How to use
-- Simply Drag&Drop the game's shortcut into the window
-- You can move the app around by dragging it by the very top part of the window.
+- To add a game simply Drag&Drop the game's shortcut into the window
+- You can move the app around by dragging it by the very top part of the window
+- Drag&Drop any card on top of another to swap them
