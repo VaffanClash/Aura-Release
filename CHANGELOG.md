@@ -1,4 +1,4 @@
-## [1.1.0]
+## [1.0.3]
 ## General
 - Cleaned up some code
 - Updated Tauri, dependencies and Cargo
