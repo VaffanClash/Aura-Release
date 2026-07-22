@@ -18,3 +18,6 @@ Is has been fully tested for
 - To add a game simply Drag&Drop the game's shortcut into the window
 - You can move the app around by dragging it by the very top part of the window
 - Drag&Drop any card on top of another to swap them
+
+![GitHub Downloads](https://img.shields.io/github/downloads/VaffanClash/Aura-Release/total?style=for-the-badge&logo=github&color=24292e)
+![Latest Release Downloads](https://img.shields.io/github/downloads/VaffanClash/Aura-Release/latest/total?style=for-the-badge&logo=github&color=24292e)
