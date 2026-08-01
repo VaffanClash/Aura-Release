@@ -1,4 +1,10 @@
-## [1.0.3]
+# [1.0.4]
+## New Feature: Game renaming!
+You can now rename games! It can be done through a game's context menu
+## UI
+- The context menu now only takes as much space as needed
+
+# [1.0.3]
 ## General
 - Cleaned up some code
 - Updated Tauri, dependencies and Cargo
