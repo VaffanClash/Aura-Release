@@ -1,10 +1,10 @@
 {
-  "version": "1.0.3",
-  "notes": "Changelog for Aura v1.0.3",
+  "version": "1.0.4",
+  "notes": "Changelog for Aura v1.0.4",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRL3JCbDR3M3BVVWpiZnZlMU85ODJJa001aGtSOFZ1V0VoZmJiWUhUVk04VzZrUENNZWNrQW1YQkFXV1g0T2dVeS9lUkNCMXB1SWVjRlhGUG41RWNGbkthU1g2VjArWHdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NzM0NTY1CWZpbGU6QXVyYV8xLjAuM194NjQtc2V0dXAuZXhlClBDVlNjY3ROOVNJd09jZWVydXpUUnJOQ0RLTFlIb1hIWjl3THduaTF0TTlRR3luQm5oN1c4c0I1a051QVNVVjQ3QUFpbHFvTUp3ZTRxcVFhWkh4UURRPT0K",
-      "url": "https://github.com/VaffanClash/Aura-Release/releases/download/v1.0.3/Aura_1.0.3_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRL3JCbDR3M3BVVW1kNEFMUndnby81bklEZFExTnZrVWc5dlJqT3l0b3BMcE9ZbEtucjhhSzlSQUtUczNkbTVJQjIwMTNiVUt6VmdRNFF1YXBXdmh4bmRPRGF2c0x3MUF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1NjE3MDMzCWZpbGU6QXVyYV8xLjAuNF94NjQtc2V0dXAuZXhlCnJpQXpmbklZUHBhWmp1NzlLMjUxcmtWcUY2cU9QT0hTSmJuVTd5TTBiZVhDSGdNQUZYN3F4Wmw0SDk3elZHRkJuQjZQRUpDQlZibUV2QTdiaVVMckNnPT0K",
+      "url": "https://github.com/VaffanClash/Aura-Release/releases/download/v1.0.4/Aura_1.0.4_x64-setup.exe"
     }
   }
 }
