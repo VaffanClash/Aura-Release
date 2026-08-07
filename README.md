@@ -38,4 +38,4 @@ The app supports:
 ---
 
 ## 📦 Download
-Get the latest version from the [Releases](https://github.com/VaffanClash/Aura-Release/releases) page!
+Get the latest version from the [Releases](https://github.com/lucafeller-dev/Aura-Release/releases) page!
