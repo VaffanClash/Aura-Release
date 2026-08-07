@@ -1,7 +1,7 @@
 # Aura
 
-![GitHub Downloads](https://img.shields.io/github/downloads/VaffanClash/Aura-Release/total?style=for-the-badge&logo=github&color=24292e)
-![Latest Release Downloads](https://img.shields.io/github/downloads/VaffanClash/Aura-Release/latest/total?style=for-the-badge&logo=github&color=24292e)
+![GitHub Downloads](https://img.shields.io/github/downloads/lucafeller-dev/Aura-Release/total?style=for-the-badge&logo=github&color=24292e)
+![Latest Release Downloads](https://img.shields.io/github/downloads/lucafeller-dev/Aura-Release/latest/total?style=for-the-badge&logo=github&color=24292e)
 
 Aura is a simple, extremely performance-efficient game launcher. Just Drag & Drop your game shortcuts onto Aura and you're good to go.
 
